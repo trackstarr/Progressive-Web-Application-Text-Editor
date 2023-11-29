@@ -47,7 +47,7 @@ As a developer, I want to create notes or code snippets with or without an inter
 
 ## Contributing
 
-Contributions are welcome. Please read the [contributing guidelines](CONTRIBUTING.md) first.
+Contributions are welcome. Please forward any contributions to peltierjames@gmail.com or contact me here on github
 
 ## License
 
