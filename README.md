@@ -1,5 +1,10 @@
 # Text Editor PWA
 
+![Screenshot](screenshot.png)
+
+[Deployed Site](https://pwa-txt-editor-jpeltier-43fbe269a86b.herokuapp.com/)
+
+
 This is a text editor application that runs in the browser. It's a single-page application that meets the PWA (Progressive Web App) criteria and features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
 
 ## User Story
